@@ -1,0 +1,28 @@
+{
+    "theme": {
+        "file": [
+            "/ventoy/themes/Bigsur/theme.txt",
+            "/ventoy/themes/CyberRe/theme.txt",
+            "/ventoy/themes/Distro-Grub/theme.txt",
+            "/ventoy/themes/Vanilla/theme.txt",
+            "/ventoy/themes/Ventoy-Dark/theme.txt",
+            "/ventoy/themes/Vimix/theme.txt"
+        ],
+        "default_file": 2,
+        "gfxmode": "1920x1080",
+        "ventoy_left": "14%",
+        "ventoy_top": "82%",
+        "ventoy_color": "#8dede5",
+        "fonts": [
+            "/ventoy/themes/fonts/dejavu_sans_14.pf2",
+            "/ventoy/themes/fonts/dejavu_sans_16.pf2",
+            "/ventoy/themes/fonts/dejavu_sans_48.pf2",
+            "/ventoy/themes/fonts/droidlogo_regular_17.pf2",
+            "/ventoy/themes/fonts/terminus-14.pf2",
+            "/ventoy/themes/fonts/terminus-16.pf2",
+            "/ventoy/themes/fonts/ubuntu_regular_17.pf2",
+            "/ventoy/themes/fonts/ubuntu_regular_20.pf2",
+            "/ventoy/themes/fonts/unifont-regular-16.pf2"
+        ]
+    }
+}
